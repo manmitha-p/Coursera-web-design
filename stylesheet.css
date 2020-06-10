@@ -1,0 +1,22 @@
+input{
+border:1px solid black;
+}
+input:focus{
+background-color: #E6E6E6;
+}
+fieldset{
+margin-bottom: 4%;
+margin-top: 2%;
+}
+h1{
+  background-color:aqua;
+  border: 1px solid #000000;
+  text-align:center;
+}
+p{
+  color : #ffffff;
+  background-color: #000000;
+  padding:10px;
+  margin:2px;
+  font-style: oblique;
+}
